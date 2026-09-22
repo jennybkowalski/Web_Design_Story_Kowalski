@@ -20,6 +20,7 @@ main{
 p{
   font-family: "Nova Cut", Helvetica;
 }
-li{
+a{
+  color: white;
   font-family: "Nova Cut", Helvetica;
 }
