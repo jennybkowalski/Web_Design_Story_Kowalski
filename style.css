@@ -5,8 +5,10 @@ html {
 }
 
 main{
+	font-family: "Nova Cut", Helvetica;
+	text-color: white; 
   position: relative;
-  margin: 12px auto;
+  margin: 50px auto;
   background-color: black;
   background-size: auto, 220px 220px; /* adjust 220px to your texture's natural tile size */
   padding: 56px 60px 64px;
@@ -15,4 +17,4 @@ main{
     0 1px 0 rgba(255,255,255,0.4) inset,
     0 18px 40px rgba(43,28,16,0.25);
 }
-// font-family: "Nova Cut", Helvetica;
+
