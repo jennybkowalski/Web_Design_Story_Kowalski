@@ -23,4 +23,50 @@ p{
 a{
   color: white;
   font-family: "Nova Cut", Helvetica;
+  text-decoration: none;
 }
+
+
+img{
+  width:300px;
+}
+
+.bs1 {
+  display: grid;
+  place-items: center;
+  
+
+}
+
+.bslink {
+  grid-column: 1;
+  grid-row: 1;
+}
+
+.bsimg {
+  grid-column: 1;
+  grid-row: 1;
+}
+
+#bs123 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  height: 300px;
+}
+
+#bs1 {
+  grid-column: 1;
+}
+
+#bs2 {
+  grid-column: 2;
+}
+
+
+#textarea{
+  align-items: center;
+  text-align: center;
+}
+
